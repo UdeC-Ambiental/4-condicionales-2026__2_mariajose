@@ -1,0 +1,31 @@
+sitio,temperatura,categoria_temp,riesgo_termico,pH,clasificacion_pH,alerta_quimica,oxigeno,clasificacion_oxigeno,estres_biologico
+Río Subachoque,18.5,Baja,No,,,,,,
+Quebrada Honda (Facatativá),19.4,Baja,No,,,,,,
+Río Botello (Madrid),22.7,Media,No,,,,,,
+Afluente San José (El Rosal),20.1,Media,No,,,,,,
+Río Villeta,28.3,Alta,Sí,,,,,,
+Quebrada Cune (San Francisco),25.2,Media,No,,,,,,
+Río Tobia (Nocaima),26.9,Alta,Sí,,,,,,
+Quebrada Negra (La Vega),24.4,Media,No,,,,,,
+Río Bahamón (Sasaima),27.6,Alta,Sí,,,,,,
+Río Guayuriba (La Mesa),30.5,Alta,Sí,,,,,,
+Río Subachoque,,,,7.2,Adecuado,No,,,
+Quebrada Honda (Facatativá),,,,6.3,Ácido,Sí,,,
+Río Botello (Madrid),,,,6.8,Adecuado,No,,,
+Afluente San José (El Rosal),,,,7.9,Adecuado,No,,,
+Río Villeta,,,,8.7,Alcalino,Sí,,,
+Quebrada Cune (San Francisco),,,,6.0,Ácido,Sí,,,
+Río Tobia (Nocaima),,,,7.4,Adecuado,No,,,
+Quebrada Negra (La Vega),,,,7.6,Adecuado,No,,,
+Río Bahamón (Sasaima),,,,8.1,Adecuado,No,,,
+Río Guayuriba (La Mesa),,,,5.9,Ácido,Sí,,,
+Río Subachoque,,,,,,,7.8,Bueno,No
+Quebrada Honda (Facatativá),,,,,,,6.2,Medio,No
+Río Botello (Madrid),,,,,,,5.9,Medio,No
+Afluente San José (El Rosal),,,,,,,8.3,Bueno,No
+Río Villeta,,,,,,,6.1,Medio,No
+Quebrada Cune (San Francisco),,,,,,,4.5,Bajo,Sí
+Río Tobia (Nocaima),,,,,,,5.2,Medio,No
+Quebrada Negra (La Vega),,,,,,,7.0,Bueno,No
+Río Bahamón (Sasaima),,,,,,,6.7,Medio,No
+Río Guayuriba (La Mesa),,,,,,,4.8,Bajo,Sí
